@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Android_lab6_2"
         android:name=".MainActivity$ExecutorClass">
         <activity
-            android:name=".MainActivityCoroutine"
+            android:name=".MainActivityPicasso"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
